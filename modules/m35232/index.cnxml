@@ -1,0 +1,322 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Financial Analyses</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35232</md:content-id>
+  <md:title>Financial Analyses</md:title>
+  <md:abstract/>
+  <md:uuid>d9d5a74b-f4ac-4335-9503-52d42132c01e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id12396859">
+      <title>Establishing a Financial Performance Baseline</title>
+      <para id="id7267052">To evaluate the financial implications of offering an 
+online edition, a society should establish a financial baseline against which to 
+compare the journal’s projected future performance. This baseline analysis 
+should include:</para>
+      <list id="id7267056" list-type="bulleted">
+        <item>Revenue sources and trends, including institutional subscription 
+fees, allocated member dues income, and other income sources;</item>
+        <item>Expense sources and trends for the journal’s print edition, 
+including both variable costs (including printing, binding, and fulfillment) and 
+fixed costs (including first copy costs, marketing, and administration);</item>
+        <item>Membership dues trends for individual members and pricing trends 
+for institutional subscribers; and</item>
+        <item>Operating margins and surpluses or deficits for the 
+journal.</item>
+      </list>
+      <para id="id12750698">The baseline analysis provides a basis for assessing 
+the financial risk that a society might incur, and the benefits that it might 
+enjoy, in moving to online distribution of its journal, whether via outsourcing 
+or self-publishing<emphasis effect="italics">. </emphasis>Most of the elements 
+of a journal’s financial history are straightforward, and many societies monitor 
+this data as a matter of course. Below, we have provided some observations on 
+additional revenue and cost analyses that a society may want to take into 
+consideration. Some of this data will be necessary to support the analyses 
+described in the previous sections.</para>
+    </section>
+    <section id="id3617104">
+      <title>Member and Subscriber Analyses</title>
+      <section id="id11099383">
+        <title>Individual Member Information</title>
+        <para id="id10367236">Detailed and reliable data on its membership will 
+allow a society to evaluate the potential effect of an online edition on its 
+membership. Much of this data the society may already have at hand, including 
+individual membership data by:</para>
+        <list id="id8438457" list-type="bulleted">
+          <item>Member type (for example, regular, student, life, emeritus, 
+etc.), including membership trends over time. Understanding the composition of 
+the member base will often help a society anticipate the prevalence of member 
+behavior and preferences.</item>
+          <item>Institutional affiliation (for example, four-year college or 
+university, two-year college, commercial firm, private practitioner, etc.). 
+Developing a membership profile by institution type will help the society to 
+determine the extent of its exposure to online site licenses (see “Assessing 
+Exposure to Online Licenses,” in Chapter Three). Ideally, a society will be able 
+to correlate the institutional affiliations of its individual members with its 
+institutional subscriber base.</item>
+          <item>Geographical region (for example, North America, OECD developed 
+countries, LDCs). Analyzing member geographical distribution can allow a society 
+to estimate the potential cost savings from online-only distribution options, as 
+well as the potential effects of different prices by region. </item>
+        </list>
+        <para id="id14779139">Sometimes this member data will need to be mined, 
+cleaned, and normalized. The amount of effort that a society should expend on 
+this effort will depend on its ability to tolerate risk in projecting member 
+behavior. </para>
+        <para id="id9462553">Besides the basic member data, more detailed 
+behavioral and preference information may prove valuable in assessing the effect 
+of online availability on membership. This information includes:</para>
+        <list id="id4296690" list-type="bulleted">
+          <item>Whether membership in the society is a member’s primary 
+professional affiliation, or a secondary or tertiary membership;</item>
+          <item>Member profession (for example, faculty, student, 
+practitioner);</item>
+          <item>Member preference for a personal print subscription; and</item>
+          <item>Overall perception of the society’s benefits.</item>
+        </list>
+        <para id="id9485523">To gather this information, a society will often 
+need to supplement membership registration data with data gathered through 
+member surveys.<footnote id="id4766448">For an overview of conducting a 
+membership survey, see Dalton and Dignam (2007), 98-102. </footnote></para>
+      </section>
+      <section id="id12308959">
+        <title>Institutional Subscription Analysis</title>
+        <para id="id9887047">It is important to analyze institutional 
+subscription trends in as much historical depth as possible. Over time, 
+institutional price increases can mask the effect of gradual declines in 
+institutional subscriptions. Therefore, a society must carefully monitor the 
+trend in its institutional subscription units, as well as in revenue.<footnote id="id4201284">There are few empirical sources on subscription trends for 
+society journals. Anecdotal evidence, and the publicly available studies, 
+suggest that subscriptions to individual titles have been decreasing by about 3-
+4% per year. See, for example, Watkinson (1999), which analyses UK 
+journals.</footnote></para>
+        <para id="id10241634">In addition to historical institutional 
+subscription trends, understanding the complexion of a journal’s institutional 
+subscribers by institution type allows a society to:</para>
+        <list id="id9870315" list-type="bulleted">
+          <item><emphasis effect="italics">Estimate the institutional demand for 
+the online edition</emphasis>. Not all types of institutions will exhibit the 
+same demand for the online edition of a journal. While institutional libraries 
+exhibit considerable demand for online journals, the demand may not be as 
+prevalent for other institution types that may be represented in the journal’s 
+subscriber base. An understanding of the journal’s subscriber base will help the 
+society estimate the potential uptake of an online edition.</item>
+          <item><emphasis effect="italics">Establish appropriate prices for an 
+online journal. </emphasis>The value perceived in online and print editions can 
+also differ by institution type. Most libraries accept tiered pricing for online 
+services that take into account the size of the institution’s user base. Detail 
+on a journal’s institutional subscriber base allows a society to develop online 
+pricing that aligns with the value the institution perceives in the service (see 
+“Institutional Subscription Pricing,” in Chapter Five). </item>
+          <item><emphasis effect="italics">Identify under-represented market 
+segments for future marketing efforts</emphasis>. Most small societies have 
+limited and passive sales activities. A detailed profile of a journal’s 
+institutional subscriber base might suggest market segments that a society might 
+penetrate more deeply through increased marketing and sales programs. The 
+potential of such campaigns will be affected by several variables, including the 
+age of the journal and the nature of the target markets.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id10434632">
+      <title>Allocated Member Dues </title>
+      <para id="id4570293">Some societies only show institutional subscription 
+revenue on their journal financial statements. Other societies determine the 
+cost of fulfilling individual member print subscriptions and explicitly allocate 
+a commensurate portion of individual member dues to the operation of the 
+journal. Whether it is captured on the journal’s financial statement or not, an 
+explicit understanding of the dues required to provide the member publication 
+benefit is of practical importance, as it allows a society to:</para>
+      <list id="id10237751" list-type="bulleted">
+        <item>Determine the journal’s actual financial performance;</item>
+        <item>Evaluate the financial implications of various member publication 
+benefit options; and </item>
+        <item>Allocate resources rationally across all society programs. </item>
+      </list>
+      <para id="id13250825">Allocating member dues to a journal’s income 
+statement based on the variable cost of goods sold (COGS)—that is, the marginal 
+cost of delivering each incremental member print subscription—will provide many 
+societies with the most meaningful basis for making business decisions (see 
+“Variable Costs of Goods Sold,” below). </para>
+      <para id="id10414022">Determining the COGS serves several purposes. First, 
+it provides a society with the accurate marginal cost of providing the member 
+publication benefit. Second, segregating the marginal cost of providing the 
+print edition will allow the society to compare the financial effects of various 
+print and online distribution scenarios, and will inform its pricing of an 
+online edition of its journal (see “Member Publication Benefits” and 
+“Institutional Subscription Pricing,” in Chapter Five).</para>
+    </section>
+    <section id="id9820888">
+      <title>Variable Costs</title>
+      <para id="id5543215">A thorough understanding of its publication program 
+costs will allow a society to make well-considered decisions about the print and 
+online editions of a journal, and will also inform decisions about resource 
+allocations across other society activities.<footnote id="id8424217">Colby and 
+Rubin (2003) provide an excellent summary of the benefits of explicit cost 
+allocations across nonprofit programs. King (2007) provides an overview of the 
+costs of journal publishing.</footnote> Therefore, we have described below some 
+of the basic cost elements relevant to managing a society journal.</para>
+      <para id="id11175841">As we have noted previously, publishing costs fall 
+into two broad categories: variable costs and fixed costs. Variable costs are 
+volume-driven and fluctuate depending on the number of subscriptions. Variable 
+costs for a print edition of a journal include:</para>
+      <list id="id12592625" list-type="bulleted">
+<item> <emphasis effect="italics">Printing and Manufacturing</emphasis>, 
+including paper, printing, binding, and typesetting-composition. </item>
+        <item> <emphasis effect="italics">Print Distribution and 
+Fulfillment</emphasis>, including postage, handling, and fulfillment charges for 
+print subscriptions. </item>
+      </list>
+      <para id="id12972907">Identifying variable costs allows the society to 
+determine its print cost of goods sold, as well as the revenue contribution for 
+various journal format options.</para>
+      <section id="id8150436">
+        <title>Variable Cost of Goods Sold </title>
+        <para id="id10666996"><figure id="id10667000"><media id="id10667000_media" alt=""><image mime-type="image/png" src="../../media/fa1.png" id="id10667000__onlineimage" height="80" width="186"/></media></figure> The 
+table provides an example of per-unit variable “cost of goods sold” (COGS) for a 
+journal. The variable cost of goods sold is the cost that a society incurs for 
+printing, manufacturing, and delivering each incremental subscription. For the 
+print edition, it is determined by dividing total print and fulfillment expenses 
+by the total number of subscribers (both individual members and institutional 
+subscribers). A society should calculate a journal’s COGS for the three most 
+recent years, to minimize the effect of year-to-year cost fluctuations. </para>
+      </section>
+      <section id="id9491744">
+        <title>Revenue Contribution</title>
+        <para id="id10432094">Revenue contribution provides a metric that can 
+help a society compare potential member publication benefit options (for 
+example, journal media options at various dues levels) and establish 
+institutional prices for the journal. </para>
+        <para id="id9135960">The table below <emphasis effect="italics"/>illustrates hypothetical revenue contributions per unit (in 
+dollars and as a percentage) that member and institution types would make 
+towards covering a society’s costs. In other words, the revenue contribution 
+(that is, unit price less unit variable cost) reveals how much income remains to 
+cover a society’s fixed costs and contribute to a journal’s operating income 
+after the society pays for the cost of providing the journal. </para>
+        <para id="id12395185">In the example, which uses a COGS of $17.00, 83 
+cents of each regular member dues dollar is available to cover the journal’s 
+fixed costs and contribute to an operating surplus to help cover the society’s 
+overhead.</para>
+        <para id="id13385267">Example Revenue Contribution by Subscriber 
+Type</para>
+        <figure id="id7302851"><media id="id7302851_media" alt="">
+            <image mime-type="image/png" src="../../media/fa2.png" id="id7302851__onlineimage" height="150" width="550"/>
+          </media>
+        </figure>
+        <para id="id12699432">Typically, as in the example, the revenue 
+contribution for student members will be lower than other member types. This 
+discounted dues strategy makes sense for student members, many of whom become 
+regular members over time. </para>
+        <para id="id10406246">A society may also have multiple member levels 
+and/or dues levels (for example, dues based on the member’s annual income). The 
+society will need to assess whether such complexity will have a material 
+difference on its analysis.</para>
+      </section>
+    </section>
+    <section id="id6898820">
+      <title>Fixed Costs</title>
+      <para id="id9296782">Fixed costs are those costs that the society incurs 
+regardless of the size of the journal’s subscriber base. They are sometimes 
+referred to as “first copy” costs, as they represent the costs required to 
+create the first copy of the journal. A detailed understanding of the society’s 
+costs for these categories will provide a basis for monitoring operating 
+efficiency over time, as well as for evaluating possible outsourcing 
+arrangements.</para>
+      <section id="id9296786">
+        <title>Direct Costs</title>
+        <para id="id13385962">Fixed costs can be separated into content creation 
+and publishing support activities. Content creation costs include the costs of 
+acquiring, certifying, and creating the journal’s content, including editorial 
+office costs, editor stipends, copyediting, proofing, and composition costs. 
+Publishing service costs include direct or allocated staff costs, journal 
+marketing, advertising sales, and management costs. The category also includes 
+copyright fees, print inventory storage, and any other fixed non-editorial 
+costs. </para>
+      </section>
+      <section id="id6727886">
+        <title>Indirect Costs</title>
+        <para id="id7270347">In addition to the direct fixed and variable costs 
+described above, the society may want to estimate indirect costs, including the 
+average amount of staff time directed towards journal publishing activities. 
+This might include salary and benefits for management and administration; 
+accounting and financial management; advertising tracking, offprint provision, 
+administrative support; and subscription fulfillment. </para>
+        <para id="id7648686">Tracking these staff costs allows the society to 
+manage and improve the operating efficiency of its journal program. It also 
+allows the society to identify potential cost savings that might be realized by 
+outsourcing some or all of the publishing functions. In some instances, the 
+society would realize cost savings by being able to reduce staff costs; in 
+others, the savings would derive from freeing staff resources to pursue other 
+activities, thus lowering the society’s opportunity costs.</para>
+      </section>
+    </section>
+    <section id="id5479490">
+      <title>Financial Sensitivity Analyses and Stress Tests</title>
+      <para id="id9166533">Projecting the financial performance of a new online 
+edition of a journal will be subject to multiple cost and income variables. 
+These variables, and the inherent nature of projections, render precise 
+financial estimates impossible, even when reliable market information is 
+available. </para>
+      <para id="id10623185">The best a society can do is to test the sensitivity 
+of its financial projections to ensure that the society is not unduly exposed in 
+the event that the society’s costs and/or income projections vary more than 
+anticipated. To better understand the risk caused by this uncertainty, a society 
+can test the sensitivity of the financial projection for several key variables—
+including operating costs, institutional subscription adoption rate, and 
+individual member retention—to identify critical performance benchmarks that the 
+society should monitor.</para>
+      <section id="id10623189">
+        <title>Operating Cost Sensitivity</title>
+        <para id="id9951125">A society can test its cost scenarios—for both 
+development and ongoing operating costs—to determine the cost over-runs that the 
+society could sustain before the journal’s net income would drop below an 
+acceptable level. (The financial baseline described in “Establishing a Financial 
+Performance Baseline,” above, provides a basis for determining an acceptable 
+performance threshold.)</para>
+        <para id="id4130797">If such a stress test indicates that a society 
+could incur one-time development and/or annual operating costs substantially 
+higher than those estimated for an online edition before falling below an 
+acceptable financial performance threshold, then the society should have a 
+sufficient margin of error from a cost perspective. On the other hand, if a 
+relatively slight cost overrun would lead to an unacceptable financial result, 
+the society may need to reduce its development or operating costs, or adjust its 
+pricing to provide a greater operating cushion. </para>
+      </section>
+      <section id="id13719788">
+        <title>Institutional Subscription Adoption Rate Sensitivity</title>
+        <para id="id8661608">While it is safe to predict that academic libraries 
+will continue to prefer online-only subscription options, it is far more 
+difficult to determine specific uptake rates by medium for any given field or 
+discipline, let alone for a specific title. It follows, therefore, that 
+projecting revenue by format option after the launch of an online edition will 
+be inherently imprecise. </para>
+        <para id="id7410099">If a society adopts a pricing approach (such as 
+those described in Chapter Five’s “Member Publication Benefits” and 
+“Institutional Subscription Format Options”) that renders it largely indifferent 
+to the adoption rate of an online edition, even substantial fluctuations in 
+uptake scenarios should have little effect on net income from subscriptions. 
+However, a simple way to test income sensitivity by medium would be to run the 
+journal’s financial projection assuming a worst-case scenario wherein all 
+institutional subscribers opt for the version of the service providing the 
+lowest revenue contribution (see “Revenue Contribution,” above).</para>
+      </section>
+      <section id="id8501675">
+        <title>Individual Member Retention Sensitivity</title>
+        <para id="id13575230">Chapter Three’s “Assessing Exposure to Online 
+Licenses” describes how a society can estimate its exposure to potential risk 
+posed by institutional online site licenses. Once a society has assessed the 
+approximate risk to individual memberships it might face, it would be prudent to 
+determine the potential effect on net dues income were the society’s members to 
+demonstrate less-than-anticipated commitment to the organization. </para>
+        <para id="id6051032">A society can project the net dues income that it 
+would forgo (that is, member dues less the cost of providing all member 
+benefits) were its membership base to decline <emphasis effect="italics">n</emphasis> percent more than anticipated. The loss threshold 
+that the society tests will depend on its confidence in its risk analysis. If 
+the society is confident in its estimate, it might use a lower percentage. 
+Obviously, for most societies, any significant loss of membership would be more 
+important than the foregone dues income. </para>
+      </section>
+    </section>
+  </content>
+</document>
